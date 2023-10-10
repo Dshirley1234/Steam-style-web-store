@@ -9,3 +9,23 @@
     margin-top: 75px;
     padding-left: 30%;
 }
+
+.buy{
+    background-color: #219EBC;
+    border-radius: 30px;
+}
+
+body{
+    background-color: #023047;
+}
+
+.right_margin{
+    margin-right: auto;
+}
+
+.description{
+    border-style: solid;
+    border-color: black;
+    align-items: center;
+    /*padding: 10%;*/
+}
