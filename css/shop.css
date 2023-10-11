@@ -27,5 +27,8 @@ body{
     border-style: solid;
     border-color: black;
     align-items: center;
-    /*padding: 10%;*/
+}
+
+.company{
+    font-size: small;
 }
