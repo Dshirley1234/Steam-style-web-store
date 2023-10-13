@@ -3,9 +3,10 @@
     align-items: center; /* Center items vertically within the container */
     margin-top: 75px;
     margin-left: 20%;
+    margin-right:20%;
+    background-color:#ee00ff;
 }
-
-/* Style for the image */
+ 
 img {
     width: 50%; /* Adjust the width of the image as needed */
     height: auto; /* Maintain the aspect ratio of the image */
@@ -18,10 +19,15 @@ img {
 }
 
 body{
-    background-color: #023047;
+    background-color: #023047;    
 }
 
 .game_col{
     size:20%;
     background-color: #EB5E28;
+    border-radius: 30px;
+}
+
+footer{
+    background-color: pink;
 }
