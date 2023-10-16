@@ -29,11 +29,27 @@
     </div>
   </nav>
 <body>
+  <br/>
+  <br/>
     <h1>Payment details</h1>
     <br/>
-  <label for="purchase_name">Enter the name on card</label>
+  <label for="purchase_name">Enter the name on card:</label>
   <input type="text" id="purchase_name" name="textbox">
-
+  <br/>
+  <br/>
+  <label for="card_number">Enter card number:</label>
+  <input type="text" id="card_number" name="textbox"  pattern="[0-9]*" maxlength="16">
+  <br/>
+  <br/>
+  <label for="monthYearInput">Enter expirey month and year:</label>
+  <input type="month" id="monthYearInput" name="monthYearInput">
+  <br/>
+  <br/>
+  <label for="card_number">Enter security code on the back of the card:</label>
+  <input type="text" id="card_number" name="textbox"  pattern="[0-9]*" maxlength="3">
+  <br/>
+  <br/>
+  <a href="index.html" class="btn btn-primary" tabindex="-1" role="button" >Purchase</a>
 
 
 
