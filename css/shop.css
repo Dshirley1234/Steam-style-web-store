@@ -35,7 +35,7 @@ body{
 }
 
 footer{
-    background-color: pink;
+    background-color: #0044B5;
 }
 
 .video_con{
@@ -49,12 +49,19 @@ footer{
     height:315px;
 }
 
-.footer{
-    size:100%;
-}
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #0044B5;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
 
 .shadow-navbar {
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.609);
   }
 
 
