@@ -16,3 +16,13 @@ footer {
 .shadow-navbar {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.609);
   }
+
+  .desc{
+    border-style: solid;
+    border-color: cadetblue;
+    background-color: cadetblue;
+    /*justify-content: center;*/
+    align-items: center;
+    border-radius: 10px;
+
+  }

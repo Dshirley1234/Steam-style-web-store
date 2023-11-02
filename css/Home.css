@@ -51,20 +51,18 @@ footer {
   }
 
 .big_game_img{
-    width: 50%;
+    width: 100%;
     border-bottom-left-radius: 30px; 
     border-top-left-radius:30px;
 
 }
 
+h1 {
+    text-align: center;
+}
 
 .shadow-navbar {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.609);
   }
 
-@media (max-width: 430px) {
-    .big_game_img{
-        border-bottom-left-radius: 0px; 
-        border-top-left-radius:0px;
-    }
-  }
+
