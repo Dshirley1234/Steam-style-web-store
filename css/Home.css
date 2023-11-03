@@ -6,7 +6,6 @@
     margin-right:20%;
     background-color:#EB5E28;
     border-radius: 30px;
-
 }
 .title{
     text-align: center;
@@ -26,7 +25,6 @@ img {
 
 .big_game_text {
     font-size: 16px;
-
 }
 
 body{
@@ -41,7 +39,7 @@ body{
 
 footer {
     position: static;
-    bottom: 0%;
+    bottom: 0;
     left: 0;
     width: 100%;
     background-color: #0044B5;
@@ -54,7 +52,6 @@ footer {
     width: 100%;
     border-bottom-left-radius: 30px; 
     border-top-left-radius:30px;
-
 }
 
 h1 {
@@ -64,5 +61,3 @@ h1 {
 .shadow-navbar {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.609);
   }
-
-
